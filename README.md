@@ -1,3 +1,4 @@
+<img width="1280" height="960" alt="WhatsApp Image 2026-11-17 at 8 06 36 PM" src="https://github.com/user-attachments/assets/6b60eac7-d428-4c5d-8cd7-d19440f92a66" />
 # TARS — ESP32-C3 Pocket AI Voice Assistant
 
 A keychain-sized robotic companion inspired by **TARS from Interstellar**, built on an **ESP32-C3 Super Mini**. It combines animated OLED eyes, real-time audio waveform rendering, flash-spooled I2S voice recording, and cloud speech-to-text + LLM inference via **Groq** (`whisper-large-v3-turbo` + `qwen/qwen3.8-27b`).
